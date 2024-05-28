@@ -1,0 +1,18 @@
+.navbar{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+    /* background-color: rgb(95, 186, 95); */
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* background: rgb(54,111,20);
+    background: linear-gradient(180deg, rgba(54,111,20,1) 0%, rgba(21,191,106,1) 83%, rgba(14,236,140,1) 100%); */
+    background: rgb(192,63,251);
+    background: linear-gradient(350deg, rgba(192,63,251,1) 0%, rgba(84,73,210,1) 36%, rgba(242,90,127,1) 100%, rgba(244,91,122,1) 100%);
+}
+.navbar div h1 a{
+    text-decoration: none;
+    color: white;
+}
